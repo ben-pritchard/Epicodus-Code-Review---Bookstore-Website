@@ -6,6 +6,13 @@ You will seriously be like: **"Cheese!"**
 
 ### Setup
 
+|Note:|
+---|
+|The username and password for both the database (named: "bookstore") and the Drupal Site Maintenance account are:
+|- username: Epicodus
+|- password: Epicodus
+|Please don't tell anyone though!|
+
 1. Clone the repository
 2. Set the MAMP root directory to the project folder
 3. Open PHPMyAdmin and import the SQL file in the db-backup folder
