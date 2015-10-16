@@ -7,7 +7,7 @@ You will seriously be like: **"Cheese!"**
 ### Setup
 
 |Note:|
----|
+|---|
 |The username and password for both the database (named: "bookstore") and the Drupal Site Maintenance account are:
 |- username: Epicodus
 |- password: Epicodus
